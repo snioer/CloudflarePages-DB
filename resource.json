@@ -1,0 +1,154 @@
+{
+    "header": [
+        " *   ",
+        " *   文件描述：本文件为网页资源信息",
+        " *   success字段为下载保存成功的资源;failures字段则为下载保存失败的资源URL",
+        " *   success字段为标准树结构，每一层资源父子关系、URL和保存路径清晰明了",
+        " *   本文件仅为记录检测到的网页资源以便于调试，非专业人员可将本文件删除",
+        " *   详细介绍请参考: https://bazhan.me/faq",
+        " *   "
+    ],
+    "success": [
+        {
+            "url": "https://cuuc.cc/",
+            "path": "index.html",
+            "children": [
+                {
+                    "url": "https://cuuc.cc/images/tx.png",
+                    "path": "images/tx.png"
+                },
+                {
+                    "url": "https://cuuc.cc/js/highlight.min.js",
+                    "path": "js/highlight.min.js"
+                },
+                {
+                    "url": "https://cuuc.cc/js/load-typekit.js",
+                    "path": "js/load-typekit.js"
+                },
+                {
+                    "url": "https://cuuc.cc/js/give-up-IE.js",
+                    "path": "js/give-up-IE.js"
+                },
+                {
+                    "url": "https://cuuc.cc/js/indentation-el.js",
+                    "path": "js/indentation-el.js"
+                },
+                {
+                    "url": "https://cuuc.cc/js/mode.js",
+                    "path": "js/mode.js"
+                },
+                {
+                    "url": "https://cuuc.cc/js/beaudar.js",
+                    "path": "js/beaudar.js"
+                },
+                {
+                    "url": "https://cuuc.cc/js/math-code.js",
+                    "path": "js/math-code.js"
+                },
+                {
+                    "url": "https://cuuc.cc/js/center-img.js",
+                    "path": "js/center-img.js"
+                },
+                {
+                    "url": "https://cuuc.cc/js/Click.js",
+                    "path": "js/Click.js"
+                },
+                {
+                    "url": "https://cuuc.cc/js/right-quote.js",
+                    "path": "js/right-quote.js"
+                },
+                {
+                    "url": "https://cuuc.cc/js/fix-footnote.js",
+                    "path": "js/fix-footnote.js"
+                },
+                {
+                    "url": "https://cuuc.cc/js/external-link.js",
+                    "path": "js/external-link.js"
+                },
+                {
+                    "url": "https://cuuc.cc/js/alt-title.js",
+                    "path": "js/alt-title.js"
+                },
+                {
+                    "url": "https://cuuc.cc/js/header-link.js",
+                    "path": "js/header-link.js"
+                },
+                {
+                    "url": "https://cuuc.cc/js/checkbox-list.js",
+                    "path": "js/checkbox-list.js"
+                },
+                {
+                    "url": "https://cuuc.cc/js/busuanzi.pure.mini.js",
+                    "path": "js/busuanzi.pure.mini.js"
+                },
+                {
+                    "url": "https://cuuc.cc/css/monokai.min.css",
+                    "path": "css/monokai.min.css"
+                },
+                {
+                    "url": "https://cuuc.cc/css/style.css",
+                    "path": "css/style.css"
+                },
+                {
+                    "url": "https://cuuc.cc/css/fonts.css",
+                    "path": "css/fonts.css"
+                },
+                {
+                    "url": "https://cuuc.cc/css/github-light.css",
+                    "path": "css/github-light.css"
+                },
+                {
+                    "url": "https://cuuc.cc/css/github-dark.css",
+                    "path": "css/github-dark.css"
+                },
+                {
+                    "url": "https://cuuc.cc/css/github-dark-orange.css",
+                    "path": "css/github-dark-orange.css"
+                },
+                {
+                    "url": "https://cuuc.cc/css/dark-blue.css",
+                    "path": "css/dark-blue.css"
+                },
+                {
+                    "url": "https://cuuc.cc/css/icy-dark.css",
+                    "path": "css/icy-dark.css"
+                },
+                {
+                    "url": "https://cuuc.cc/css/photon-dark.css",
+                    "path": "css/photon-dark.css"
+                },
+                {
+                    "url": "https://cuuc.cc/css/font-awesome.min.css",
+                    "path": "css/font-awesome.min.css",
+                    "children": [
+                        {
+                            "url": "https://cuuc.cc/fonts/fontawesome-webfont_1.eot",
+                            "path": "fonts/fontawesome-webfont_1.eot"
+                        },
+                        {
+                            "url": "https://cuuc.cc/fonts/fontawesome-webfont.eot#iefix&v=4.7.0",
+                            "path": "fonts/fontawesome-webfont.eot"
+                        },
+                        {
+                            "url": "https://cuuc.cc/fonts/fontawesome-webfont.woff2",
+                            "path": "fonts/fontawesome-webfont.woff2"
+                        },
+                        {
+                            "url": "https://cuuc.cc/fonts/fontawesome-webfont.woff",
+                            "path": "fonts/fontawesome-webfont.woff"
+                        },
+                        {
+                            "url": "https://cuuc.cc/fonts/fontawesome-webfont.ttf",
+                            "path": "fonts/fontawesome-webfont.ttf"
+                        }
+                    ]
+                },
+                {
+                    "url": "https://cuuc.cc/favicon.ico",
+                    "path": "favicon.ico"
+                }
+            ]
+        }
+    ],
+    "failures": []
+}
